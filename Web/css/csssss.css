@@ -1,8 +1,8 @@
 body {
   background-image:url("../png/background.jpg");
   background-size: cover;
-    height: 100%;
-    overflow: hidden;
+  height: 100%;
+  overflow: hidden;
 
 }
 
@@ -10,4 +10,9 @@ p{
   padding-top: 16px;
   color:#f9f9f9;
   font-size:20px
+}
+img{
+  height: 300px;
+  weight:300px;
+  margin-left: 10px;
 }
