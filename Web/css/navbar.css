@@ -1,10 +1,3 @@
-body {
-  background-image:url("background.jpg");
-  background-size: cover;
-    height: 100%;
-    overflow: hidden;
-
-}
 
 .navbar {
   overflow: hidden;
@@ -68,8 +61,4 @@ body {
 
 .dropdown:hover .dropdown-content {
   display: block;
-}
-p{
-  color:#f9f9f9;
-  font-size:10px
 }
